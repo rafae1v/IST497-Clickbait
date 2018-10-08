@@ -48,6 +48,7 @@
 @ATTRIBUTE "targetParagraphs_word_frequency" NUMERIC
 @ATTRIBUTE "formal_word_ratio" NUMERIC
 @ATTRIBUTE "tags_amount" NUMERIC
+@ATTRIBUTE "word_similarity_list" NUMERIC
 @ATTRIBUTE label {0,1}
 
 @DATA
